@@ -47,4 +47,5 @@ GRAPH:
 
 
 RESULT:
+Thus instrumentation amplifier was constructed and tested using op-amp IC 741.
 
